@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34dd323e.chunk.css",
+    "main.js": "/static/js/main.460fa9cc.chunk.js",
+    "main.js.map": "/static/js/main.460fa9cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.880da336.chunk.js": "/static/js/2.880da336.chunk.js",
+    "static/js/2.880da336.chunk.js.map": "/static/js/2.880da336.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f873672fa659a90153a74df29eacb8f3.js": "/precache-manifest.f873672fa659a90153a74df29eacb8f3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.34dd323e.chunk.css.map": "/static/css/main.34dd323e.chunk.css.map",
+    "static/js/2.880da336.chunk.js.LICENSE.txt": "/static/js/2.880da336.chunk.js.LICENSE.txt",
+    "static/media/div.jpg.jpg": "/static/media/div.jpg.d0480e5d.jpg",
+    "static/media/nil.jpg": "/static/media/nil.8e7005f3.jpg",
+    "static/media/plasmaforsure.png": "/static/media/plasmaforsure.1caf7958.png",
+    "static/media/sam.jpg.jpg": "/static/media/sam.jpg.5452cce9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.880da336.chunk.js",
+    "static/css/main.34dd323e.chunk.css",
+    "static/js/main.460fa9cc.chunk.js"
+  ]
+}
